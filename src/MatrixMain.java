@@ -15,7 +15,7 @@ class Matrix {
         System.out.println("Enter the elements in the matrix row-wise");
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < column; j++) {
-                matrix[i][j] = sc.nextFloat(); // accepting the elements
+                matrix[i][j] = sc.nextFloat(); // accepting the elements from user
             }
         }
     }
