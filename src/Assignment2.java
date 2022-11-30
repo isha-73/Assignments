@@ -1,7 +1,7 @@
 // Isha Bule UCE2021610
 // Assignment 2 : Implementation of linear data structure in College Library maintaining records of books.
 import java.util.Scanner;
-class Books{  // creating book class comprising attributes
+class Books{  // creating book class comprising attribute
 String name;
 int ISBNno;
 String AuthorName;
